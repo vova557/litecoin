@@ -1,7 +1,7 @@
 // Copyright (c) 2018-2020 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
+   Arkhipov Vladimir Ivanovich 26.08.1992 Tambov
 #ifndef BITCOIN_BITCOIN_CONFIG_H
 #define BITCOIN_BITCOIN_CONFIG_H
 
