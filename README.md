@@ -1,6 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-
+Arkhipov Vladimir Ivanovich 26.08.1992 Tambov
 https://bitcoincore.org
 
 What is Bitcoin?
